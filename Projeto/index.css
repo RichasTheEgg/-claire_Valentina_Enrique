@@ -1,0 +1,100 @@
+.macbook-pro-14-2-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    filter: blur(4px);
+    background-color: #e8ded7;
+    border: 1px solid #423b35;
+    box-sizing: border-box;
+    width: 1512px;
+    height: 166px;
+}
+.claire {
+    position: absolute;
+    top: 42px;
+    left: 275px;
+    font-size: 100px;
+    font-family: "kapakana";
+    display: inline-block;
+    width: 730px;
+    height: 82px;
+    text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+.macbook-pro-14-2-item {
+    position: absolute;
+    top: 167px;
+    left: 0px;
+    filter: blur(4px);
+    background: linear-gradient(90deg, #f2e4d7, #ebddd1 0.01%, #e9dccf 25.5%, #d6c8bc 52%, #d6c9bc 59%, #ac9e92);
+    border: 0.8px solid #000;
+    box-sizing: border-box;
+    width: 1512px;
+    height: 43px;
+}
+.inicio {
+    position: absolute;
+    top: 175px;
+    left: 62px;
+    display: inline-block;
+    width: 302px;
+    height: 35px;
+    text-shadow: 0.3px 0 0 #000, 0 0.3px 0 #000, -0.3px 0 0 #000, 0 -0.3px 0 #000;
+    text-decoration: none;
+}
+.inicio1 {
+    position: absolute;
+    top: 175px;
+    left: 489px;
+    display: inline-block;
+    width: 302px;
+    height: 35px;
+    text-shadow: 0.3px 0 0 #000, 0 0.3px 0 #000, -0.3px 0 0 #000, 0 -0.3px 0 #000;
+    text-decoration: none;
+}
+.inicio2 {
+    position: absolute;
+    top: 175px;
+    left: 885px;
+    display: inline-block;
+    width: 302px;
+    height: 35px;
+    text-shadow: 0.3px 0 0 #000, 0 0.3px 0 #000, -0.3px 0 0 #000, 0 -0.3px 0 #000;
+    text-decoration: none;
+}
+.image-2-icon {
+    position: absolute;
+    top: 304px;
+    left: 84px;
+    width: 307px;
+    height: 374px;
+    object-fit: cover;
+}
+.bem-vindo-ao-claire {
+    margin: 0;
+}
+.bem-vindo-ao-claire-container {
+    position: absolute;
+    top: 253px;
+    left: 416px;
+    font-size: 20px;
+    font-family: Laila;
+    text-align: left;
+    display: inline-block;
+    width: 803px;
+    height: 448px;
+}
+.macbook-pro-14-2 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 896px;
+    overflow: hidden;
+    flex-shrink: 0;
+    text-align: center;
+    font-size: 32px;
+    color: #000;
+    font-family: Lancelot;
+}
+@media only screen and (max-device-width: 900px) {
+    .menu { width:100%; } 
+   }

@@ -1,0 +1,161 @@
+.macbook-pro-14-3-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    filter: blur(4px);
+    background-color: #e8ded7;
+    border: 1px solid #423b35;
+    box-sizing: border-box;
+    width: 1512px;
+    height: 166px;
+}
+.claire {
+    position: absolute;
+    top: 49px;
+    left: 333px;
+    font-size: 100px;
+    font-family: "kapakana";
+    display: inline-block;
+    width: 730px;
+    height: 82px;
+    text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+}
+.macbook-pro-14-3-item {
+    position: absolute;
+    top: 167px;
+    left: 0px;
+    filter: blur(4px);
+    background: linear-gradient(90deg, #f2e4d7, #ebddd1 0.01%, #e9dccf 25.5%, #d6c8bc 52%, #d6c9bc 59%, #ac9e92);
+    border: 0.8px solid #000;
+    box-sizing: border-box;
+    width: 1512px;
+    height: 43px;
+}
+.inicio {
+    position: absolute;
+    top: 175px;
+    left: 89px;
+    font-size: 32px;
+    font-family: Lancelot;
+    display: inline-block;
+    width: 302px;
+    height: 35px;
+    text-shadow: 0.3px 0 0 #000, 0 0.3px 0 #000, -0.3px 0 0 #000, 0 -0.3px 0 #000;
+    text-decoration: none;
+}
+.inicio1 {
+    position: absolute;
+    top: 175px;
+    left: 522px;
+    font-size: 32px;
+    font-family: Lancelot;
+    display: inline-block;
+    width: 302px;
+    height: 35px;
+    text-shadow: 0.3px 0 0 #000, 0 0.3px 0 #000, -0.3px 0 0 #000, 0 -0.3px 0 #000;
+    text-decoration: none;
+}
+.inicio2 {
+    position: absolute;
+    top: 175px;
+    left: 916px;
+    font-size: 32px;
+    font-family: Lancelot;
+    display: inline-block;
+    width: 302px;
+    height: 35px;
+    text-shadow: 0.3px 0 0 #000, 0 0.3px 0 #000, -0.3px 0 0 #000, 0 -0.3px 0 #000;
+    text-decoration: none;
+}
+.image-2-icon {
+    position: absolute;
+    top: 304px;
+    left: 117px;
+    width: 246px;
+    height: 299px;
+    object-fit: cover;
+}
+.image-4-icon {
+    position: absolute;
+    top: 305px;
+    left: 575px;
+    width: 246px;
+    height: 299px;
+    object-fit: cover;
+}
+.image-5-icon {
+    position: absolute;
+    top: 305px;
+    left: 972px;
+    width: 246px;
+    height: 299px;
+    object-fit: cover;
+}
+.fireside-treats {
+    margin: 0;
+}
+.fireside-treats-candle-container {
+    position: absolute;
+    top: 609px;
+    left: 124px;
+    display: inline-block;
+    width: 232px;
+    height: 36px;
+}
+.white-strawberry-bellini {
+    position: absolute;
+    top: 605px;
+    left: 575px;
+    display: inline-block;
+    width: 232px;
+    height: 36px;
+}
+.spice-white-cocoa-container {
+    position: absolute;
+    top: 609px;
+    left: 979px;
+    display: inline-block;
+    width: 232px;
+    height: 36px;
+}
+.div {
+    position: absolute;
+    top: 681px;
+    left: 215px;
+    display: inline-block;
+    width: 58px;
+    height: 22px;
+    text-shadow: 0.2px 0 0 #000, 0 0.2px 0 #000, -0.2px 0 0 #000, 0 -0.2px 0 #000;
+}
+.div1 {
+    position: absolute;
+    top: 681px;
+    left: 666px;
+    display: inline-block;
+    width: 58px;
+    height: 22px;
+    text-shadow: 0.2px 0 0 #000, 0 0.2px 0 #000, -0.2px 0 0 #000, 0 -0.2px 0 #000;
+}
+.div2 {
+    position: absolute;
+    top: 681px;
+    left: 1070px;
+    display: inline-block;
+    width: 53px;
+    height: 22px;
+    text-shadow: 0.2px 0 0 #000, 0 0.2px 0 #000, -0.2px 0 0 #000, 0 -0.2px 0 #000;
+}
+.macbook-pro-14-3 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 720px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-family: Laila;
+}
+@media only screen and (max-device-width: 900px) {
+     .menu { width:100%; } 
+    }
